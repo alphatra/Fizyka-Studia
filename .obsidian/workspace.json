@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f1e26e8ad5f05b",
+        "id": "575e34d868cfc425",
         "type": "tabs",
         "children": [
           {
-            "id": "1049c5a5c30c69a1",
+            "id": "e0822233cb54fe60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7b3e548dfb1b0a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Działy/Elektormagnetyzm/Natężenie pola elektrycznego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb563befef510e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Działy/Elektormagnetyzm/Zadania/003 - Mol elektronów, natężenie, ładunek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c2af952e2d5e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6486ba52fc879c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznomagnetycznego.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznomagnetycznego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznomagnetycznego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md"
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznomagnetycznego.md"
               }
             }
           },
@@ -205,34 +156,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7c2af952e2d5e76",
+  "active": "e0822233cb54fe60",
   "lastOpenFiles": [
-    "README.md",
-    "Działy/Elektormagnetyzm/Zadania/003 - Mol elektronów, natężenie, ładunek.md",
-    "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
-    "Działy/Elektormagnetyzm/Zadania/001 - Łączenie Kondensatorów.md",
-    "Działy/Elektormagnetyzm/Zadania/002 - Moc oporników w układzie.md",
-    "Działy/Elektormagnetyzm/Dielektryk.md",
-    "Działy/Elektormagnetyzm/Strumień pola elektrycznego.md",
-    "Działy/Elektormagnetyzm/Indukcja elektromagnetyczna.md",
-    "Działy/Elektormagnetyzm/Natężenie.md",
-    "Działy/Elektormagnetyzm/Łączenie szeregowe Kondensatorów.md",
-    "Działy/Elektormagnetyzm/Energia Kondensatora.md",
-    "Działy/Elektormagnetyzm/Kondensator.md",
-    "Działy/Elektormagnetyzm/Kulomb.md",
+    "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznomagnetycznego.md",
     "Działy/Elektormagnetyzm/Natężenie pola elektrycznego.md",
+    "Działy/Elektormagnetyzm/Zadania/Pole magnetyczne.md",
+    "Działy/Elektormagnetyzm/Strumień pola elektrycznego.md",
     "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
-    "Działy/Elektormagnetyzm/Culombach.md",
     "Działy/Elektormagnetyzm/Pole elektryczne.md",
-    "Działy/Elektormagnetyzm/Rezystancja - Prawo Ohma ( Ω ).md",
+    "Działy/Elektormagnetyzm/Zadania/003 - Mol elektronów, natężenie, ładunek.md",
+    "Działy/Elektormagnetyzm/Natężenie.md",
     "Działy/Elektormagnetyzm/Prąd.md",
+    "Działy/Elektormagnetyzm/Rezystancja - Prawo Ohma ( Ω ).md",
+    "Działy/Elektormagnetyzm/Rezystor(opornik).md",
+    "Działy/Mol.md",
     "Działy/Elektormagnetyzm/Moc - elektryczność.md",
     "Działy/Elektormagnetyzm/Moc.md",
     "Działy/Elektormagnetyzm/Łączenie szeregowe Oporników.md",
+    "Działy/Elektormagnetyzm/Łączenie szeregowe Kondensatorów.md",
     "Działy/Elektormagnetyzm/Łączenie równoległe Oporników.md",
     "Działy/Elektormagnetyzm/Łączenie równoległe Kondensatorów.md",
-    "Działy/Elektormagnetyzm/Ładunek elektryczny.md",
     "Działy/Elektormagnetyzm/Ładunek elementarny.md",
+    "Działy/Elektormagnetyzm/Ładunek elektryczny.md",
+    "Działy/Elektormagnetyzm/Kulomb.md",
+    "Działy/Elektormagnetyzm/Kondensator.md",
+    "Działy/Elektormagnetyzm/Indukcja elektromagnetyczna.md",
+    "Działy/Elektormagnetyzm/Farad.md",
+    "Działy/Elektormagnetyzm/Energia Kondensatora.md",
+    "Działy/Elektormagnetyzm/Dielektryk.md",
     "Działy",
     "Bez nazwy.canvas",
     "Bez nazwy 1.canvas",

@@ -6,4 +6,4 @@ Jest to koncepcja używana do opisania oddziaływań na odległość między ła
 
 ## Linki
 ---
-[[Działy/Elektormagnetyzm/Natężenie pola elektrycznego]]
+[[Natężenie pola elektrycznego]]
