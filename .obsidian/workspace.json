@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "0c5650c01c41aa46",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f1e26e8ad5f05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1049c5a5c30c69a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7b3e548dfb1b0a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Natężenie pola elektrycznego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb563befef510e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Zadania/003 - Mol elektronów, natężenie, ładunek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7c2af952e2d5e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6486ba52fc879c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8ffa6edb070fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8772df0fdc441206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1339cccfa8b84bd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83868f10aa752e30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Elektromagnetyzm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bfd6b50cfb351e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaa9512c0cae570a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d19a8378b2c777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99c830bd224e0aee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be9e9597650a7f75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4029a2295debd7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c14b479ee6d6fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md"
+              }
+            }
+          },
+          {
+            "id": "feafced3b6373dcd",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false,
+      "mathpad:Open Mathpad": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f7c2af952e2d5e76",
+  "lastOpenFiles": [
+    "README.md",
+    "Działy/Elektormagnetyzm/Zadania/003 - Mol elektronów, natężenie, ładunek.md",
+    "Działy/Elektormagnetyzm/Zadania/004 - Natężenie pola elektrycznego.md",
+    "Działy/Elektormagnetyzm/Zadania/001 - Łączenie Kondensatorów.md",
+    "Działy/Elektormagnetyzm/Zadania/002 - Moc oporników w układzie.md",
+    "Działy/Elektormagnetyzm/Dielektryk.md",
+    "Działy/Elektormagnetyzm/Strumień pola elektrycznego.md",
+    "Działy/Elektormagnetyzm/Indukcja elektromagnetyczna.md",
+    "Działy/Elektormagnetyzm/Natężenie.md",
+    "Działy/Elektormagnetyzm/Łączenie szeregowe Kondensatorów.md",
+    "Działy/Elektormagnetyzm/Energia Kondensatora.md",
+    "Działy/Elektormagnetyzm/Kondensator.md",
+    "Działy/Elektormagnetyzm/Kulomb.md",
+    "Działy/Elektormagnetyzm/Natężenie pola elektrycznego.md",
+    "Działy/Elektormagnetyzm/Stała oddziaływań ładunków elektrycznych w próżni.md",
+    "Działy/Elektormagnetyzm/Culombach.md",
+    "Działy/Elektormagnetyzm/Pole elektryczne.md",
+    "Działy/Elektormagnetyzm/Rezystancja - Prawo Ohma ( Ω ).md",
+    "Działy/Elektormagnetyzm/Prąd.md",
+    "Działy/Elektormagnetyzm/Moc - elektryczność.md",
+    "Działy/Elektormagnetyzm/Moc.md",
+    "Działy/Elektormagnetyzm/Łączenie szeregowe Oporników.md",
+    "Działy/Elektormagnetyzm/Łączenie równoległe Oporników.md",
+    "Działy/Elektormagnetyzm/Łączenie równoległe Kondensatorów.md",
+    "Działy/Elektormagnetyzm/Ładunek elektryczny.md",
+    "Działy/Elektormagnetyzm/Ładunek elementarny.md",
+    "Działy",
+    "Bez nazwy.canvas",
+    "Bez nazwy 1.canvas",
+    "Excalidraw",
+    "Działy/Elektormagnetyzm/Zadania",
+    "Grafiki",
+    "Szablony",
+    "Działy/Elektormagnetyzm"
+  ]
+}
